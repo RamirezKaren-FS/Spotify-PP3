@@ -4,8 +4,6 @@ import { Route, Routes } from 'react-router-dom';
 import Search from './pages/Search';
 import Home from './pages/Home';
 
-
-
 function App() {
   
     return (
